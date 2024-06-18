@@ -8,11 +8,7 @@ In this paper we talk about recent experiences and insights into machine learnin
 
 This paper will be presented orally in Berlin and you can find the full paper in this repository (https://github.com/wi-re/spheric2024)
 
-## Fully Analytic Higher-Order Boundary Integrals for Two-Dimensional SPH
-
-This is a long running result from my work on semi analytic boundary handling in SPH that was presented some years ago at SIGGRAPH Asia. Back then we only were able to analytically solve boundary integrals for planar boundaries (in 2D and 3D). In this work we extended the solutions to arbitrary triangular boundaries in 2D and added the ability to model baricentric interpolation, i.e., piece-wise linear boundary quantities. This improves on prior work that was only capable of handling piece-wise constant boundary quantities as they did not solve the integrals over the area of the boundary but instead commonly solved it over the boundary surface geometry using the Divergence Theorem. We also show how this solution can be extended to non compact Gaussian kernels highlighting some interesting future work.
-
-This paper will only be included in the proceedings and you can find the full paper in this repository.
+You can also find the slides here: https://docs.google.com/presentation/d/1e02A_wJwa9tPF9eBA0_XZiz2FKnaNUiF/edit?usp=drive_link&ouid=107302498783065501890&rtpof=true&sd=true
 
 ## General things
 
